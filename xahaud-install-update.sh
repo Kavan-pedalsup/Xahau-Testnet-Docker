@@ -11,7 +11,7 @@ RELEASE_TYPE="release"
 URL="https://build.xahau.tech/"
 # Do not change below this line unless you know what you're doing
 BASE_DIR=/opt/xahaud
-USER=xahaud
+USER=root
 PROGRAM=xahaud
 BIN_DIR=$BASE_DIR/bin
 DL_DIR=$BASE_DIR/downloads
